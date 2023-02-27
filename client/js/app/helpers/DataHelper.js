@@ -1,5 +1,5 @@
 class DataHelper {
-  constructor () {
+  constructor() {
     throw new Error ('DataHelper não pode ser instanciada')
   };
 
